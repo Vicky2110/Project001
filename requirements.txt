@@ -3,3 +3,4 @@ pyaudio
 pyglet
 pygame
 PyQt5
+Vicky
